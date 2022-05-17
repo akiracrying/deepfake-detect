@@ -1,2 +1,2 @@
-# OPD_Project
+# Система обнаружения DeepFake
 Система распознавания DeepFake
